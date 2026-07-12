@@ -36,3 +36,9 @@ Data analyst working across **Python, SQL, and BI tools** — I turn business qu
 **Python** (pandas, NumPy, scikit-learn, matplotlib, seaborn) · **SQL** (MySQL) · **Tableau** · **Power BI** (DAX) · **Statistics** (hypothesis testing, ANOVA, confidence intervals) · **Excel**
 
 ---
+
+## 📫 Reach me
+ 
+- **LinkedIn:** [Aman Dubey](www.linkedin.com/in/amandubeykota)
+
+---
